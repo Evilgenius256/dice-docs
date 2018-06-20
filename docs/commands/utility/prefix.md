@@ -1,7 +1,7 @@
 title: Prefix
 description: Shows or sets the command prefix.
 
-# Prefix
+# Prefix -
 
 ## Description
 
@@ -19,11 +19,11 @@ If no prefix is provided, the current prefix will be shown. If the prefix is "de
 
 ### Examples
 
-* `prefix`
+* `prefix -`
 * `prefix -`
 * `prefix omg!`
 * `prefix default`
-* `prefix none`
+* `prefix -`
 
 ### Arguments
 
